@@ -2,11 +2,9 @@
 
 ## Overview
 
-This repository is used to practice Git and GitHub commands.
+This repository is used to practice important Git and GitHub commands.
 Students must demonstrate branching, merging, conflict resolving,
 reverting, and pushing to GitHub.
-
----
 
 ## Features
 
