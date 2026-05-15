@@ -10,7 +10,6 @@ reverting, and pushing to GitHub.
 
 The project currently includes:
 
-- Main project documentation
 - README.md file
 - Student profile feature
 - Basic documentation updated from feature branch
