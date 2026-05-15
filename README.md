@@ -12,6 +12,5 @@ reverting, and pushing to GitHub.
 
 The project currently includes:
 - README.md
+- Main project documentation
 - Basic documentation
-
----
