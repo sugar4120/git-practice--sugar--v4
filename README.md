@@ -11,7 +11,6 @@ reverting, and pushing to GitHub.
 ## Features
 
 The project currently includes:
-- README.md
-- Basic documentation
-
----
+- README.md file
+- Student profile feature
+- Basic documentation updated from feature branch
